@@ -22,12 +22,12 @@ jupyter notebook
 ```
 
 ## Notebooks
-- `01_Feed_Forward.ipynb`
-- `Backpropagation.ipynb`
-- `Submission 2.ipynb`
-- `Submission 4.ipynb`
-- `Task 7.ipynb`
-- `task 8.ipynb`
+- `01-feed-forward-basics.ipynb`
+- `02-backpropagation-from-scratch.ipynb`
+- `03-pytorch-ops-and-mlp.ipynb`
+- `04-weight-init-and-activations.ipynb`
+- `05-cnn-training-and-evaluation.ipynb`
+- `06-hyperparameter-tuning-optuna.ipynb`
 
 ## Nota
 Uso académico/educativo.
