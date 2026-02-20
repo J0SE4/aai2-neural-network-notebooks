@@ -1,0 +1,10 @@
+numpy
+matplotlib
+tqdm
+torch
+torchvision
+optuna
+plotly
+pillow
+ipython
+jupyter
